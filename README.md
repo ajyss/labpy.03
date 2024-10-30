@@ -1,3 +1,12 @@
+# labpy-03
+# Data Diri
+
+Nama : Zizantara Arzeva Cakra Kahana 
+
+NIM : 312410398
+
+Kelas : TI,24.A.3
+
 # input dan outpu dari latihan 1
 ## input
 
@@ -80,3 +89,55 @@ Selesai
   2. Eksekusi pindah ke blok except
   3. Tampilkan pesan error
   4. Program selesai
+
+# Latihan 2
+
+## Input Code
+
+<img src="latihan 2.png">
+
+## Output 
+
+<img src="latihaan 2.png">
+
+## Program di atas memiliki fitur-fitur berikut:
+
+1. Inisialisasi modal awal 100 juta
+2. Perhitungan laba berdasarkan kondisi:
+
+* Bulan 1-2: 0% (belum ada laba)
+* Bulan 3-4: 1%
+* Bulan 5-7: 5%
+* Bulan 8: 3%
+
+
+3. Menampilkan laba per bulan
+4. Menghitung dan menampilkan total laba
+
+# Latihan 3
+
+## Input Code
+
+<img src="latihan 3.png">
+
+## Output 
+
+<img src="latihan 3..png">
+
+## Program di atas memiliki fitur-fitur berikut:
+
+1. Menampilkan saldo awal Rp 1.000.000
+2. Menu untuk:
+
+* Tarik uang
+* Keluar dari program
+
+
+3. Validasi input untuk:
+
+* Memastikan jumlah penarikan adalah angka valid
+* Memeriksa kecukupan saldo
+* Memastikan jumlah penarikan lebih dari 0
+
+
+4. Pesan konfirmasi untuk setiap operasi
